@@ -69,11 +69,6 @@ cp .env.example .env
 
 ### 3. Configure API Key
 
-Edit `backend/.env`:
-```env
-GEMINI_API_KEY=your_actual_gemini_api_key_here
-```
-
 ### 4. Start Backend Server
 
 ```bash
