@@ -1,0 +1,14 @@
+﻿{
+    "document_type":  "employment_contract",
+    "details":  {
+                    "start_date":  "2026-03-01",
+                    "position":  "Software Engineer",
+                    "authorized_signatory_name":  "Sanjay Mehta",
+                    "employer_name":  "Acme Solutions Pvt. Ltd.",
+                    "authorized_signatory_designation":  "HR Manager",
+                    "salary":  "INR 600000 per annum",
+                    "employee_name":  "Rekha Kumar, daughter of Fictional Parent, residing at No. 123, Gandhi Nagar, Ballari, Karnataka, India - 58310",
+                    "work_location":  "Bengaluru, Karnataka",
+                    "employment_type":  "Full-Time"
+                }
+}

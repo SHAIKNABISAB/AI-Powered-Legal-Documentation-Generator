@@ -1,0 +1,21 @@
+﻿{
+    "document_type":  "service_agreement",
+    "details":  {
+                    "client_address":  "Flat 5B, 123 MG Road, New Delhi, 110001",
+                    "agreement_start_date":  "2026-03-01",
+                    "jurisdiction":  "New Delhi, Delhi",
+                    "client_name":  "Amit Sharma",
+                    "plan_name":  "Fiber Premium",
+                    "payment_method":  "UPI",
+                    "agreement_end_date":  "2027-03-01",
+                    "client_email":  "amit.sharma@example.com",
+                    "advance_payment":  "2000",
+                    "data_limit":  "Unlimited",
+                    "remaining_due_date":  "2026-03-10",
+                    "installation_date":  "2026-03-01",
+                    "service_speed":  "200 Mbps",
+                    "client_phone":  "+91-9876543210",
+                    "service_location":  "Flat 5B, 123 MG Road, New Delhi, 110001",
+                    "total_amount":  "999"
+                }
+}
